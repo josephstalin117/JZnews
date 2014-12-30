@@ -1,0 +1,10 @@
+.gradle/*
+/local.properties
+/.idea/*
+/build/*
+build.gradle
+gradle.properties
+gradle/*
+gradlew.bat
+JZnews.iml
+settings.gradle
